@@ -9,10 +9,32 @@
 - 👯 I’m looking to collaborate on react, react native, python, and java projects.
 
 ## Find Me around the web!
-- Website at https://mlkasule.com/ 
+- Website at https://mlkasule.com/
+- Other Git-Account: https://github.com/casulemarc/casulemarc
 - Youtube: <a href="https://www.youtube.com/channel/UC3cQi5gvNeiPiPXTrMhZJMg">YouTube Channel</a>
 - Dev Community: https://dev.to/casulemarc
 - Twitter: https://twitter.com/casulemarc
+## Languages:
+- C++       
+- JAVA
+- JSON/JQUERY
+- PYTHON
+- JAVASCRIPT
+- TYPESCRIPT
+- HTML5
+- CSS3
+- SASS
+## FRAMEWORKS
+- BOOTSTRAP
+- MATERIAL UI
+- REACTjs
+- REACT NATIVE
+- EXPRESS
+- NODEjs
+## DATABASES
+- MONGO-DB
+- ORACLE
+- MYSQL
 
 
 <!--
