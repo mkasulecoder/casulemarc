@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on react, react native, python, and java projects
 ## Find Me around the web!
 - Website at https://mlkasule.com/ 
+- Youtube: <a href="https://www.youtube.com/channel/UC3cQi5gvNeiPiPXTrMhZJMg">YouTube Channel</a>
 - Dev Community: https://dev.to/casulemarc
 - Twitter: https://twitter.com/casulemarc
 
