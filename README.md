@@ -15,20 +15,11 @@
 - Dev Community: https://dev.to/casulemarc
 - Twitter: https://twitter.com/casulemarc
 ## Languages:
-- C++       
-- JAVA
-- JSON/JQUERY
-- PYTHON
-- JAVASCRIPT
-- TYPESCRIPT
-- HTML5
-- CSS3
-- SASS
+- C++, JAVA, JSON/JQUERY, PYTHON, JAVASCRIPT, TYPESCRIPT.
+- HTML5, CSS3, SASS
 ## FRAMEWORKS
-- BOOTSTRAP
-- MATERIAL UI
-- REACTjs
-- REACT NATIVE
+- BOOTSTRAP, MATERIAL UI
+- REACTjs, REACT NATIVE
 - EXPRESS
 - NODEjs
 ## DATABASES
