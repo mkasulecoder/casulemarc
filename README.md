@@ -8,12 +8,13 @@
 - I'm quietly confident, naturally curious, and perpetually working on improving my skills and knowledge.
 - 👯 I’m looking to collaborate on react, react native, python, and java projects.
 
-## Find Me around the web!
+## LET'S GET IN TOUCH
 - Website at https://mlkasule.com/
 - Other Git-Account: https://github.com/mlkasule
 - Youtube: <a href="https://www.youtube.com/channel/UC3cQi5gvNeiPiPXTrMhZJMg">YouTube Channel</a>
 - Dev Community: https://dev.to/casulemarc
-- Twitter: https://twitter.com/casulemarc
+- Twitter: https://twitter.com/mkasulecoder
+- Instagram: https://www.instagram.com/mkasulecoder/
 ## Languages:
 - C++, JAVA, JSON/JQUERY, PYTHON, JAVASCRIPT, TYPESCRIPT.
 - HTML5, CSS3, SASS
