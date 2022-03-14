@@ -10,6 +10,7 @@
 
 ## LET'S GET IN TOUCH
 - Website at https://mlkasule.com/
+- Resume: <a href="https://drive.google.com/file/d/1AzY2B7ZIdzu0roqGvEgcEwRWE7Nxzjb_/view?usp=sharing"> Download Here/>
 - Other Git-Account: https://github.com/mlkasule
 - Youtube: <a href="https://www.youtube.com/channel/UC3cQi5gvNeiPiPXTrMhZJMg">YouTube Channel</a>
 - Dev Community: https://dev.to/casulemarc
