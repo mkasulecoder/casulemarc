@@ -25,7 +25,7 @@
 - NODEjs
 ## Databases
 - MONGO-DB
-- ORACLE
+- Django
 - MYSQL
 
 
