@@ -17,16 +17,15 @@
 - Twitter: https://twitter.com/mkasulecoder
 - Instagram: https://www.instagram.com/mkasulecoder/
 ## Languages:
-- C++, JAVA, JSON/JQUERY, PYTHON, JAVASCRIPT, TYPESCRIPT.
-- HTML5, CSS3, SASS
+- C++, C#, JAVA, JSON, PYTHON, JAVASCRIPT, TYPESCRIPT.
+- HTML5, CSS3
 ## Frameworks
-- BOOTSTRAP, MATERIAL UI
-- REACTjs, REACT NATIVE
-- EXPRESS
+- BOOTSTRAP, MATERIAL UI, Tailwind CSS
+- REACTjs
+- Django
 - NODEjs
 ## Databases
 - MONGO-DB
-- Django
 - MYSQL
 
 
