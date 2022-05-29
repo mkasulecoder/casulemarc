@@ -12,7 +12,7 @@
 - Resume: <a href="https://drive.google.com/file/d/1AzY2B7ZIdzu0roqGvEgcEwRWE7Nxzjb_/view?usp=sharing"> Download Here | Google Drive Link</a>
 - Other Git-Account: https://github.com/mlkasule
 - Youtube: <a href="https://www.youtube.com/channel/UC3cQi5gvNeiPiPXTrMhZJMg">YouTube Channel</a>
-- Dev Community: https://dev.to/casulemarc
+- Dev Community: https://dev.to/mkasulecoder
 - Twitter: https://twitter.com/mkasulecoder
 - Instagram: https://www.instagram.com/mkasulecoder/
 ## Languages:
